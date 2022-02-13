@@ -1,0 +1,6 @@
+module Pods_ios_sources_assignment {
+  umbrella header "Pods-ios-sources-assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
